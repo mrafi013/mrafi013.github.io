@@ -306,10 +306,10 @@ jekyll-archives:
       year: "/blog/:year/"
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
+    display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"]
+    display_categories: ["external-services"]
   books:
     enabled: [year, tags, categories]
-  display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"]
-  display_categories: ["external-services"]
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
