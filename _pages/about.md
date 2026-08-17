@@ -38,17 +38,17 @@ information-theoretic security and modern machine learning.
   and secrecy rate, validating gains at the coded level via 5G NR LDPC simulation, and analyzing
   stochastic eavesdropper threats using Poisson Point Process geometry.
 
-- **Deep generative models for wireless anomaly detection** — developed conditional VAE (cVAE) and
+- **Deep generative models for wireless anomaly detection** — I have built conditional VAE (cVAE) and
   conditional Normalizing Flow (cFlow) models for unsupervised anomaly detection on real Starlink
-  LEO satellite drive-test telemetry (22,958 samples), achieving AUROC 0.916 and strong detection
-  across scheduling failures, beam obstruction, and complete link failures.
+  LEO satellite drive-test telemetry, with strong detection across scheduling failures, beam obstruction,
+  and complete link failures.
 
-- **Physics-based LEO satellite channel simulation** — built a high-fidelity simulator modeling
-  a two-shell LEO constellation using Keplerian + J2 propagation, Saastamoinen tropospheric refraction,
-  and a 3GPP TR 38.821 Ka-band link budget, generating per-timestep handover telemetry including
-  SINR, Doppler shift, and handover latency for ML benchmarking.
+- **Physics-based LEO satellite channel simulation** — I have designed and built a high-fidelity LEO
+  simulator modeling a two-shell satellite constellation using Keplerian + J2 propagation,
+  Saastamoinen tropospheric refraction, and a 3GPP TR 38.821 Ka-band link budget, generating
+  per-timestep handover telemetry including SINR, Doppler shift, and handover latency for ML benchmarking.
 
-- **Domain-adaptive RIS beam selection via DANN** — developed a domain-adversarial neural network
+- **Domain-adaptive RIS beam selection via DANN** — I developed a domain-adversarial neural network
   framework for reconfigurable intelligent surface beam selection under LOS-to-NLOS propagation shifts,
   using MLP and CNN backbones trained on 3GPP geometry-based stochastic channel datasets.
 
