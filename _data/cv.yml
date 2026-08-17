@@ -4,7 +4,7 @@ cv:
   email: mrafi013@ucr.edu
   location: Riverside, CA
   image: ""
-  summary: PhD student in Electrical and Computer Engineering at UC Riverside, advised by Prof. Yingbo Hua. Research in physical-layer security, probabilistic constellation shaping, and ML-based anomaly detection for wireless systems.
+  summary: PhD student in Electrical and Computer Engineering at UC Riverside, advised by Prof. Yingbo Hua. Research in physical-layer security, deep generative models for wireless systems, LEO satellite channel modeling, and reconfigurable intelligent surfaces.
 
   social_networks:
     - network: LinkedIn
@@ -22,7 +22,7 @@ cv:
         start_date: 2023-09
         end_date: present
         highlights:
-          - Advisor: Prof. Yingbo Hua
+          - "Advisor: Prof. Yingbo Hua"
           - DoD-funded research (AFRL/ARL)
           - Dean's Distinguished Fellowship 2023
 
@@ -53,7 +53,7 @@ cv:
           - GPU-accelerated Monte Carlo simulations in PyTorch
 
       - company: UC Riverside
-        position: Teaching Assistant – EE111, EE115
+        position: Laboratory Instructor – EE111, EE115
         location: Riverside, CA
         start_date: 2024-09
         end_date: present
@@ -85,7 +85,7 @@ cv:
         publisher: IEEE SCSETech 2026 (Submitted)
         releaseDate: 2026
 
-  Skills:
+    Skills:
       - name: AI & Deep Learning
         keywords: "Deep generative models (VAE, cVAE, Normalizing Flows), domain-adversarial neural networks (DANN), convolutional neural networks (CNN), multilayer perceptrons (MLP), semi-supervised domain adaptation, transfer learning, anomaly detection, PyTorch"
 
@@ -101,5 +101,6 @@ cv:
     Languages:
       - name: English
         summary: "Fluent"
+
       - name: Bengali
         summary: "Native"
