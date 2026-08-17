@@ -85,15 +85,18 @@ cv:
         publisher: IEEE SCSETech 2026 (Submitted)
         releaseDate: 2026
 
-    Skills:
-      - name: Wireless Communications
-        keywords: "Physical-layer security, OFDM, NOMA, constellation shaping, RIS, LEO satellites"
+  Skills:
+      - name: AI & Deep Learning
+        keywords: "Deep generative models (VAE, cVAE, Normalizing Flows), domain-adversarial neural networks (DANN), convolutional neural networks (CNN), multilayer perceptrons (MLP), semi-supervised domain adaptation, transfer learning, anomaly detection, PyTorch"
 
-      - name: Machine Learning
-        keywords: "PyTorch, VAE, DANN, normalizing flows, anomaly detection"
+      - name: Wireless & Physical-Layer Security
+        keywords: "Physical-layer security, STEEP protocol, finite constellation analysis, probabilistic constellation shaping (PCS), OFDM, NOMA, reconfigurable intelligent surfaces (RIS), LEO satellite communications, 3GPP channel modeling, link-level simulation"
 
-      - name: Programming
-        keywords: "Python, MATLAB, Sionna, NumPy, SciPy"
+      - name: Signal Processing & Simulation
+        keywords: "Digital signal processing, Monte Carlo simulation, GPU-accelerated computing, LDPC coding (Sionna), Poisson Point Process modeling, Keplerian orbit propagation, tropospheric channel modeling"
+
+      - name: Programming & Tools
+        keywords: "Python (NumPy, SciPy, Pandas, Matplotlib, Scikit-learn, PyTorch), MATLAB, NVIDIA Sionna, QuaDRiGa, GNU Radio, CST Microwave Studio"
 
     Languages:
       - name: English
